@@ -1,7 +1,7 @@
 {
-  "name": "@gatsbystorefront/gatsby-starter-storefront-shopify",
+  "name": "@gatsbystorefront/theme-shadowing-example",
   "private": false,
-  "description": "A simple starter to get up and developing quickly with Gatsby Storefront",
+  "description": "An example of shadowing for Gatsby Storefront.",
   "version": "2.0.1",
   "author": {
     "name": "Pavel Ivanov",
@@ -31,6 +31,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbystorefront/gatsby-starter-storefront-shopify"
+    "url": "https://github.com/gatsbystorefront/theme-shadowing-example"
   }
 }

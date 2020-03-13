@@ -1,9 +1,6 @@
-You can use the starter package for faster setup process of [Gatsby Storefront](https://github.com/GatsbyStorefront/gatsby-theme-storefront-shopify).
+An example of [shadowing](https://www.gatsbyjs.org/docs/themes/shadowing/) for [Gatsby Storefront](https://github.com/GatsbyStorefront/gatsby-theme-storefront-shopify).
 
-```sh
-gatsby new store gatsbystorefront/gatsby-starter-storefront-shopify
-```
+In this example Footer component and theme colors are shadowed:
 
-This downloads the files and initializes the site by running npm install.
-
-Please follow the [installation instructions](https://github.com/GatsbyStorefront/gatsby-theme-storefront-shopify) of `gatsby-theme-storefront-shopify`.
+- `src/@gatsbystorefront/gatsby-theme-storefront-shopify/components/Footer.jsx`
+- `src/@gatsbystorefront/gatsby-theme-storefront-shopify/gatsby-plugin-theme-ui/index.js`
